@@ -1,0 +1,10 @@
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\bin\Debug\Calculator.exe.config
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\bin\Debug\Calculator.exe
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\bin\Debug\Calculator.pdb
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\obj\Debug\LAB4.Form1.resources
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\obj\Debug\Calculator.exe
+E:\Alejandro\SkyDrive\Computer Engineering\Semester 4\PRG455\LAB4\LAB4\obj\Debug\Calculator.pdb
